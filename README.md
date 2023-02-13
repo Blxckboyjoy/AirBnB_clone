@@ -1,19 +1,19 @@
-this project entails the making of a website like **AIRBNB**.
+**this project entails the making of a website like AIRBNB.**
 it will be a four phase project starting with:
 -------------------BUILDING A CONSOLE---------------
 *This is where we will be creating our first storage engine while learning about sterilization.
 
 ---------------------------HTML---------------------
-*This is where we learn to build whebsites and make them look more apealing by giving code a visual interface for future users.
+*This is where we learn to build websites and make them look more apealling by giving code a visual interface for future users.
 
 --------------------Storage Types-------------------
-*This is where we learn diffrent storage types so that along the way we can learn how to best store objects.
+*This is where we learn different storage types so that along the way we can learn how to best store objects.
 
 -----------INTERGRATION OF STORAGE AND HTML---------
 *This is where we put all the things we have learn't into one whole project and put them on our servers
 
 -------------------FLASK SERVERS--------------------
-We would be taking data in our storage and intergrate them into 
+We would be taking data in our storage and intergrate them into
 
 --------------------------REST API------------------
 We will be taking objects and put them in json files.
@@ -22,9 +22,7 @@ We will be taking objects and put them in json files.
 you'll be able to take the Json API and be able to integrate it with your HTML so you're
 able to share this web application that is AIRBNB clone.
 
-
 ----------------**COMMAND LINE INTERFACE**-----------
-
 
 WHAT IS A COMMAND LINE INTERFACE?
     its very similar to Shell except it's a single use function
